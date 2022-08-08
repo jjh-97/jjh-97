@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Jeong @jjh-97
 
-👀 I’m interested in web3, ml, cyber security and anything new and challenging! 
+* 👀 Security Enginneer by day, security engineer by night. 
+* 🚀 Hit me up with any interesting collabs! 
 
 <!---
 jjh-97/jjh-97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
